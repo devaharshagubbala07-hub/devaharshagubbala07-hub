@@ -1,39 +1,45 @@
 # Devaharsha Gubbala
 
-**Reporting Analyst at Merative | Healthcare Analytics & Health Informatics**
+**Reporting Analyst at Merative · Healthcare analytics · Indianapolis, Indiana**
 
-I work with healthcare claims and benefits data to prepare reports, compare member populations, validate dashboards, and communicate cost, utilization, risk, and quality findings.
+I work with healthcare claims and benefits data. My day-to-day work includes defining member populations, preparing cost and utilization reports, validating dashboards, and checking that workbooks and presentations agree.
 
-Based in Indianapolis, Indiana. Master's in Health Informatics from Indiana University–Purdue University Indianapolis, completed in May 2025.
+[Portfolio](https://devaharshagubbala07-hub.github.io/) · [Interactive analytics demo](https://devaharshagubbala07-hub.github.io/demo/) · [Email](mailto:devaharshagubbala07@gmail.com)
 
-## Professional focus
+## Start here: a working analytics example
 
-- **Healthcare program cohort analysis:** Multi-year participant and nonparticipant comparisons, population criteria, and financial and risk reporting.
-- **High-cost claimant analysis:** Defined member populations, year-over-year comparisons, and per-member annual cost trends.
-- **Dashboard migration and validation:** Requirements documentation, calculated measures, filter behavior, and investigation of reporting differences.
-- **Diabetes population and quality analysis:** Condition definitions, continuous enrollment, and measure-specific eligibility.
+### [Healthcare claims cost explorer](https://github.com/devaharshagubbala07-hub/healthcare-claims-analytics)
 
-Professional examples are shared as general case studies; client data and internal deliverables remain private.
+A reproducible **Python + SQL** pipeline and interactive dashboard using synthetic enrollment and claim records.
 
-## Academic projects
+- Preserves members with no claims in PMPM denominators.
+- Compares cost, enrollment and high-cost concentration by year and plan.
+- Quarantines duplicate, ineligible and unbalanced claim records.
+- Includes eight hand-calculated tests, six reconciliations, metric definitions, and written findings.
 
-| Project | Focus | Tools and methods |
-| --- | --- | --- |
-| FHIR ETL & Referral Management | Healthcare data extraction, transformation, terminology mapping, and referral workflows | Python, FHIR APIs, OAuth 2.0, SNOMED CT, BPMN |
-| Sleep Quality & Physical Activity Analysis | Exploring activity, sleep, stress, and BMI relationships | R, ggplot2, correlation, ANOVA, regression |
+[Run the code](https://github.com/devaharshagubbala07-hub/healthcare-claims-analytics#run-it) · [Read the SQL](https://github.com/devaharshagubbala07-hub/healthcare-claims-analytics/blob/main/sql/annual_summary.sql) · [Review the findings](https://github.com/devaharshagubbala07-hub/healthcare-claims-analytics/blob/main/outputs/findings.md)
 
-## Tools and methods
+This is a new portfolio demonstration developed with AI assistance. All records are generated; it is separate from my Merative work and original academic projects.
 
-**Professional reporting:** Health Insights, Insights Edge, Cognos, Kyvos, Excel, PowerPoint, cohort definition, quality checks, and dashboard validation.
+## My work at Merative
 
-**Academic and earlier analytics work:** SQL, Python, R, Power BI, Tableau, data preparation, statistical analysis, and FHIR workflows.
+Since **January 2025**, my reporting work has included:
 
-## Connect
+- **Program cohort comparisons:** population criteria, exclusions, reporting periods and consistent presentation of results.
+- **High-cost claimant reporting:** employer subsets, annual cost trends and executive slides.
+- **Dashboard migration:** documenting legacy behavior, investigating calculations and validating filters.
+- **Diabetes reporting:** condition definitions, continuous enrollment and measure-specific eligibility.
 
-Interested in healthcare analytics, claims analysis, and business intelligence opportunities.
+[Read the anonymized case notes](https://devaharshagubbala07-hub.github.io/#work). Client data and internal deliverables remain private.
 
-[View my portfolio](https://devaharshagubbala07-hub.github.io/)
+## Tools and background
 
-[Email me](mailto:devaharshagubbala07@gmail.com)
+**Professional reporting:** Health Insights, Insights Edge, Cognos, Kyvos, Excel and PowerPoint.
 
-[My GitHub](https://github.com/devaharshagubbala07-hub)
+**Academic and earlier analytics work:** SQL, Python, R, Power BI, Tableau, statistical analysis and FHIR workflows.
+
+**Education:** MS in Health Informatics, Indiana University–Purdue University Indianapolis, May 2025.
+
+Earlier academic projects include **FHIR ETL & Referral Management** and **Sleep & Physical Activity Analysis**. Their summaries are on the portfolio; original project code and notebooks have not yet been added.
+
+Interested in healthcare, reporting and business intelligence analyst opportunities.
