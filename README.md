@@ -19,19 +19,19 @@ A reproducible **Python + SQL** pipeline and interactive dashboard using synthet
 
 [Run the code](https://github.com/devaharshagubbala07-hub/healthcare-claims-analytics#run-it) · [Read the SQL](https://github.com/devaharshagubbala07-hub/healthcare-claims-analytics/blob/main/sql/annual_summary.sql) · [Review the findings](https://github.com/devaharshagubbala07-hub/healthcare-claims-analytics/blob/main/outputs/findings.md)
 
-### [Telehealth appointment operations](https://github.com/devaharshagubbala07-hub/telehealth-operations-analytics)
+### [Prescription spending & GLP-1 trends](https://github.com/devaharshagubbala07-hub/prescription-spending-analysis)
 
-Explore attendance, cancellations, lead-time groups, and wait-time distributions across three simulated teams. The Python and SQL pipeline keeps eligibility rules visible, calculates visit-level percentiles, and documents rejected records.
+Analyze **real public CMS data** to identify spending concentration and separate changes in fill counts from changes in average spending per fill. The June 2026 release covers observations through 2024, with explicit handling of manufacturer duplication and missing historical values.
 
-[Open the dashboard](https://devaharshagubbala07-hub.github.io/projects/operations/) · [Read the findings](https://github.com/devaharshagubbala07-hub/telehealth-operations-analytics/blob/main/outputs/findings.md) · [Walk through the analysis](https://github.com/devaharshagubbala07-hub/telehealth-operations-analytics/blob/main/WALKTHROUGH.md)
+[Open the analysis](https://devaharshagubbala07-hub.github.io/projects/prescription-spending/) · [Read the findings](https://github.com/devaharshagubbala07-hub/prescription-spending-analysis/blob/main/outputs/findings.md) · [Inspect the source](https://github.com/devaharshagubbala07-hub/prescription-spending-analysis/blob/main/source.json)
 
-### [Reporting migration validation](https://github.com/devaharshagubbala07-hub/reporting-migration-validation)
+### [AI spend & value monitor](https://github.com/devaharshagubbala07-hub/ai-spend-value-monitor)
 
-Compare two generated report snapshots using duplicate-safe SQL joins, definition checks, and explicit decimal tolerances. An expandable audit trail explains each issue, including matching values with changed denominators.
+Evaluate the economics of an AI-assisted workflow: retries, human review, rework, fixed fees, and cost per usable task. An interactive scenario separates potential capacity from realized value and keeps quality thresholds visible.
 
-[Open the audit](https://devaharshagubbala07-hub.github.io/projects/migration/) · [Read the findings](https://github.com/devaharshagubbala07-hub/reporting-migration-validation/blob/main/outputs/findings.md) · [Walk through the audit](https://github.com/devaharshagubbala07-hub/reporting-migration-validation/blob/main/WALKTHROUGH.md)
+[Open the monitor](https://devaharshagubbala07-hub.github.io/projects/ai-value/) · [Read the findings](https://github.com/devaharshagubbala07-hub/ai-spend-value-monitor/blob/main/outputs/findings.md) · [Explore the assumptions](https://github.com/devaharshagubbala07-hub/ai-spend-value-monitor/blob/main/assumptions.json)
 
-These are new portfolio demonstrations developed with AI assistance. All records are generated; the examples are separate from my Merative work and original academic projects.
+These are independent portfolio projects developed with AI assistance. The prescription analysis uses public CMS aggregate data. The claims explorer and AI monitor use synthetic records, with the AI monitor's prices and value assumptions explicitly labeled as illustrative. They are separate from my Merative work and original academic projects.
 
 ## My work at Merative
 
