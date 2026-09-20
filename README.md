@@ -6,7 +6,7 @@ I work with healthcare claims and benefits data. My day-to-day work includes def
 
 [Portfolio](https://devaharshagubbala07-hub.github.io/) · [Interactive analytics demo](https://devaharshagubbala07-hub.github.io/demo/) · [Email](mailto:devaharshagubbala07@gmail.com)
 
-## Start here: a working analytics example
+## Start here: working analytics examples
 
 ### [Healthcare claims cost explorer](https://github.com/devaharshagubbala07-hub/healthcare-claims-analytics)
 
@@ -19,7 +19,19 @@ A reproducible **Python + SQL** pipeline and interactive dashboard using synthet
 
 [Run the code](https://github.com/devaharshagubbala07-hub/healthcare-claims-analytics#run-it) · [Read the SQL](https://github.com/devaharshagubbala07-hub/healthcare-claims-analytics/blob/main/sql/annual_summary.sql) · [Review the findings](https://github.com/devaharshagubbala07-hub/healthcare-claims-analytics/blob/main/outputs/findings.md)
 
-This is a new portfolio demonstration developed with AI assistance. All records are generated; it is separate from my Merative work and original academic projects.
+### [Telehealth appointment operations](https://github.com/devaharshagubbala07-hub/telehealth-operations-analytics)
+
+Explore attendance, cancellations, lead-time groups, and wait-time distributions across three simulated teams. The Python and SQL pipeline keeps eligibility rules visible, calculates visit-level percentiles, and documents rejected records.
+
+[Open the dashboard](https://devaharshagubbala07-hub.github.io/projects/operations/) · [Read the findings](https://github.com/devaharshagubbala07-hub/telehealth-operations-analytics/blob/main/outputs/findings.md) · [Walk through the analysis](https://github.com/devaharshagubbala07-hub/telehealth-operations-analytics/blob/main/WALKTHROUGH.md)
+
+### [Reporting migration validation](https://github.com/devaharshagubbala07-hub/reporting-migration-validation)
+
+Compare two generated report snapshots using duplicate-safe SQL joins, definition checks, and explicit decimal tolerances. An expandable audit trail explains each issue, including matching values with changed denominators.
+
+[Open the audit](https://devaharshagubbala07-hub.github.io/projects/migration/) · [Read the findings](https://github.com/devaharshagubbala07-hub/reporting-migration-validation/blob/main/outputs/findings.md) · [Walk through the audit](https://github.com/devaharshagubbala07-hub/reporting-migration-validation/blob/main/WALKTHROUGH.md)
+
+These are new portfolio demonstrations developed with AI assistance. All records are generated; the examples are separate from my Merative work and original academic projects.
 
 ## My work at Merative
 
