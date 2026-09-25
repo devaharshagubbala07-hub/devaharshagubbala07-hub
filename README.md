@@ -52,6 +52,20 @@ Since **January 2025**, my reporting work has included:
 
 **Education:** MS in Health Informatics, Indiana University–Purdue University Indianapolis, May 2025.
 
-Earlier academic projects include **FHIR ETL & Referral Management** and **Sleep & Physical Activity Analysis**. Their summaries are on the portfolio; original project code and notebooks have not yet been added.
+## Academic foundations, revisited
+
+### [FHIR ETL & Data Quality](https://devaharshagubbala07-hub.github.io/projects/fhir-quality/)
+
+A graduate group project on healthcare data exchange, extended with a new **Python + SQL** demonstration. It classifies 33 fictional entries, keeps a reviewable quarantine ledger and reports patient coverage without confusing observation rows with people. Includes nine tests and five reconciliations.
+
+[Case study](https://devaharshagubbala07-hub.github.io/projects/fhir-quality/) · [Code, SQL and methods](https://github.com/devaharshagubbala07-hub/devaharshagubbala07-hub.github.io/tree/main/projects/fhir-quality)
+
+### [Sleep & Physical Activity](https://devaharshagubbala07-hub.github.io/projects/sleep-study/)
+
+An independent Python reanalysis of the original R team presentation. Uses **374 public synthetic records**, reproduces 12 rounded numerical results and explores why the overall trend differs from subgroup patterns. Includes source checksums, seven tests, repeated-profile sensitivity and explicit limitations.
+
+[Interactive case study](https://devaharshagubbala07-hub.github.io/projects/sleep-study/) · [Analysis and source data](https://github.com/devaharshagubbala07-hub/devaharshagubbala07-hub.github.io/tree/main/projects/sleep-study)
+
+Original academic teams are credited in each case study. The new portfolio extensions were developed with AI assistance in September 2026; they are separate from the original team code and my Merative work.
 
 Interested in healthcare, reporting and business intelligence analyst opportunities.
