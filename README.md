@@ -52,7 +52,7 @@ Since **January 2025**, my reporting work has included:
 
 **Education:** MS in Health Informatics, Indiana University–Purdue University Indianapolis, May 2025.
 
-## Academic foundations, revisited
+## Data quality and hospital performance
 
 ### [FHIR ETL & Data Quality](https://devaharshagubbala07-hub.github.io/projects/fhir-quality/)
 
@@ -60,12 +60,12 @@ A graduate group project on healthcare data exchange, extended with a new **Pyth
 
 [Case study](https://devaharshagubbala07-hub.github.io/projects/fhir-quality/) · [Code, SQL and methods](https://github.com/devaharshagubbala07-hub/devaharshagubbala07-hub.github.io/tree/main/projects/fhir-quality)
 
-### [Sleep & Physical Activity](https://devaharshagubbala07-hub.github.io/projects/sleep-study/)
+### [Hospital Readmissions & Quality Benchmarking](https://devaharshagubbala07-hub.github.io/projects/readmissions/)
 
-An independent Python reanalysis of the original R team presentation. Uses **374 public synthetic records**, reproduces 12 rounded numerical results and explores why the overall trend differs from subgroup patterns. Includes source checksums, seven tests, repeated-profile sensitivity and explicit limitations.
+An independent **Python + SQL** analysis of real public CMS data. Compares 82 Indiana hospitals across six conditions with national context, preserves unavailable values and shows how volume filters change the denominator. Includes an interactive hospital explorer, nine tests and 48 independently reconciled cohort summaries.
 
-[Interactive case study](https://devaharshagubbala07-hub.github.io/projects/sleep-study/) · [Analysis and source data](https://github.com/devaharshagubbala07-hub/devaharshagubbala07-hub.github.io/tree/main/projects/sleep-study)
+[Interactive case study](https://devaharshagubbala07-hub.github.io/projects/readmissions/) · [Code, SQL and findings](https://github.com/devaharshagubbala07-hub/devaharshagubbala07-hub.github.io/tree/main/projects/readmissions)
 
-Original academic teams are credited in each case study. The new portfolio extensions were developed with AI assistance in September 2026; they are separate from the original team code and my Merative work.
+The FHIR case credits its original academic team. Its new extension and the independent readmissions project were developed with AI assistance in September 2026 and are separate from Merative work.
 
 Interested in healthcare, reporting and business intelligence analyst opportunities.
